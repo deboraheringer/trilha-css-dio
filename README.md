@@ -15,7 +15,7 @@ Este repositório contém o projeto de uma landing page desenvolvido como parte 
 ## 🌐 Visualização do Projeto
 
 Clique no link abaixo para acessar a versão online da landing page:  
-👉 [[Landing Page CSS DIO]](https://deboraheringer.github.io/trilha-css-dio/)
+👉 [[Landing Page CSS DIO]](https://deboraheringer.github.io/css-study-track/)
 
 ## 📚 Estrutura do Projeto
 
